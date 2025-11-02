@@ -32,6 +32,10 @@ Odd Faces Detector is a simple Blender add-on made to make modeling easier by au
 ## Known Issues
 * There are no known issues just yet, there might be soon.
 
+## External Links
+* [Ko-fi](https://ko-fi.com/s/a6c9492ade)
+
 ## Version History
-**Current Version: 0.5**  
+**Current Version: 0.56**  
+* **v0.56:** This second public release of Odd Faces Detector added the external Ko-fi link in the readme, but no changes to the actual add-on.
 * **v0.5:** This is the first public release of Odd Faces Detector. All prior versions were internal development builds and are not published.
